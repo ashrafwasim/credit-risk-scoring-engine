@@ -1,0 +1,15 @@
+# Raw data - too large for GitHub
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large output files
+outputs/loans_cleaned.parquet
+outputs/shap_values_sample.npy
+outputs/X_sample.parquet
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
